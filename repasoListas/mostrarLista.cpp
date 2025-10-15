@@ -80,21 +80,5 @@ void menu () {
         system("cls");
 
     } while (opcion != 3);
-    
-
-    
-
-    cout << "Digite un numero: "; cin >> n;
-    insertarElemento(lista, n);
-
-    cout << "Digite un numero: "; cin >> n;
-    insertarElemento(lista, n);
-
-    cout << "Digite un numero: "; cin >> n;
-    insertarElemento(lista, n);
-
-    cout << "Digite un numero: "; cin >> n;
-    insertarElemento(lista, n);
-
-    
+        
 }
